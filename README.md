@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Prateek Katiyar 👋<br><br>💻 **Software Developer** passionate about building scalable applications and solving real-world problems through technology.<br><br>🎓 B.Tech Graduate in Computer Science with hands-on experience in **Full-Stack Development**, **Mobile App Development**, and **Machine Learning**.<br><br>🚀 Currently working at **Technico Industries Ltd.**, where I develop digital solutions to streamline industrial processes, improve production tracking, and automate workflows.<br><br>## 🔭 
+# Hi there, I'm Prateek Katiyar 👋<br><br>💻 **Software Developer** passionate about building scalable applications and solving real-world problems through technology.<br><br>🎓 B.Tech Graduate in Computer Science with hands-on experience in **Full-Stack Development**, **Mobile App Development**, and **Machine Learning**.<br><br>🚀 Currently working at **Technico Industries Ltd.**, where I develop digital solutions to streamline industrial processes, improve production tracking, and automate workflows.<br><br>🔭 
 
 
 ## 🌐 Socials:
